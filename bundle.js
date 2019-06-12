@@ -9,7 +9,7 @@ const filter = document.querySelector(".js-filter");
 const downloadBtn = document.querySelector(".js-download");
 const deleteBtnHtml =
   "<div class='bg-white hidden absolute pin-t pin-l js-delete-btn px-4 py-2 shadow'><i class='far fa-trash-alt pointer-events-none'></i></div>";
-const stitchesCSSPath = "http://127.0.0.1:8887/output.css";
+const stitchesCSSPath = "http://127.0.0.1:5500/output.css";
 const fontMuliPath =
   "https://fonts.googleapis.com/css?family=Muli:300,400,600,700,800,900";
 const fontAwesomePath =
