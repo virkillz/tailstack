@@ -1,8 +1,11 @@
-@tailwind preflight;
-@tailwind utilities;
+@tailwind base;
+
 @tailwind components;
 
-/* Stitches classes */
+@tailwind utilities;
+
+
+/* Tailstack classes */
 button:focus {
   outline: 0;
 }

@@ -5,8 +5,8 @@
   "main": "main.js",
   "repository": "https://github.com/virkillz/tailstack",
   "scripts": {
-    "init": "npx tailwind init --full && npx tailwind build src/input.css -o public/css/style.css",
-    "refresh": "npx tailwind build src/input.css -o public/css/style.css",
+    "init": "npx tailwind init --full && npx tailwind build input.css -o output-new.css",
+    "refresh": "npx tailwind build input.css -o output-new.css",
     "build": "purgecss --css public/css/style.css --content public/*.html -o src && postcss src/style.css > public/css/style.min.css && echo \" Sukses! \" ",
     "start": "http-server -p 8088"
   },
