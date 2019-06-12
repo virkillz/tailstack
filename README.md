@@ -1,10 +1,7 @@
-# Stitches
+# Tailstack
 
-A simple, fast web app to generate html based on a collection of commonly used user interface patterns.
+A simple tool to generate and compose common component into HTML. All component will be rewrite into Tailwind v.1
 
-## 🎏 Live Site: [stitches.hyperyolo.com](https://stitches.hyperyolo.com)
-
-![app-screen-shot](https://cdn-images-1.medium.com/max/2000/1*DqVCpGnXJefwLXFneEHPZg.png)
 
 ## Running it locally
 
@@ -37,10 +34,7 @@ Feel free to take this project and re-factor to your need! Not everyone wants th
 5. Add a filter button for it in the `index.html`. (i.e. add `<button class="text-black font-semibold hover:text-green px-2 py-1 transition-normal" data-filter="st-<your template name>">Tabs</button>`)
 6. Done! refresh to check out your own templates.
 
-## Contributing to the repo
-
-Read and follow the [Contributing guideline here](./CONTRIBUTING.md). Thanks!
 
 ## License
 
-MIT © [Amie Chen](https://amie-chen.com)
+MIT 
