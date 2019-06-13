@@ -16,7 +16,8 @@
     "dragula": "^3.7.2",
     "imagesloaded": "^4.1.4",
     "js-file-download": "^0.4.5",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "tailupgrade": "^0.1.0"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
