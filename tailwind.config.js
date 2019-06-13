@@ -15,6 +15,37 @@ module.exports = {
       black: '#000',
       white: '#fff',
 
+      primary: {
+        std: '#8D3B72',
+        light: '#8D3B7280',
+        lighter: '#8D3B7240',
+        lightest: '#8D3B720D'
+      },
+      secondary: {
+        std: '#78C0E0',
+        light: '#78C0E080',
+        lighter: '#78C0E040',
+        lightest: '#78C0E00D'
+      },
+      danger: {
+        std: '#FC60A8',
+        light: '#FC60A880',
+        lighter: '#FC60A840',
+        lightest: '#FC60A80D'
+      },
+      success: {
+        std: '#5BC8AF',
+        light: '#5BC8AF80',
+        lighter: '#5BC8AF40',
+        lightest: '#5BC8AF0D'
+      },
+      warning: {
+        std: '#FFBA49',
+        light: '#FFBA4980',
+        lighter: '#FFBA4940',
+        lightest: '#FFBA490D'
+      },
+
       gray: {
         100: '#f7fafc',
         200: '#edf2f7',
