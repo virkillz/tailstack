@@ -2,29 +2,47 @@
 
 This is a fork from other project: [stitches](https://github.com/amiechen/stitches-template-generator)
 
+The goal is to provide complete tool to play with tailwind.
+
 The project goals are:
+- Integrated code playground
 - Upgrade all to the stable version (v.1)
 - Use different color method such as primary, secondary, danger, warning, success
 - Used as snippet catalog
 - To be able to readjust the tailwind config, regenerate css, minify and use it as drag drop HTML composer.
 
 
+## How to tun locally?
 
+1. Clone the repo
 
-## Running it locally
+```
+git clone https://github.com/virkillz/tailstack.git
+```
 
-cd into Tailstack directory.
+2. cd into Tailstack directory.
 
+```
+cd tailstack
+```
+
+3. install dependency
 ```
 npm install
 ```
 
-Run server
+
+4. Run server
 
 ```
 npm run start
 ```
 
+visit [Localhost:8088](http://127.0.0.1:8088)
+
+Visit playground at /try.html
+
+## If you change config...
 
 Recompile JS
 
