@@ -16,34 +16,34 @@ module.exports = {
       white: '#fff',
 
       primary: {
-        std: '#8D3B72',
-        light: '#8D3B7280',
-        lighter: '#8D3B7240',
-        lightest: '#8D3B720D'
+        std: '#FF8A73',
+        light: '#FF8A7380',
+        lighter: '#FF8A7340',
+        lightest: '#FF8A730D'
       },
       secondary: {
-        std: '#78C0E0',
-        light: '#78C0E080',
-        lighter: '#78C0E040',
-        lightest: '#78C0E00D'
+        std: '#5580FF',
+        light: '#5580FF80',
+        lighter: '#5580FF40',
+        lightest: '#5580FF0D'
       },
       danger: {
-        std: '#FC60A8',
-        light: '#FC60A880',
-        lighter: '#FC60A840',
-        lightest: '#FC60A80D'
+        std: '#DB504A',
+        light: '#DB504A80',
+        lighter: '#DB504A40',
+        lightest: '#DB504A0D'
       },
       success: {
-        std: '#5BC8AF',
-        light: '#5BC8AF80',
-        lighter: '#5BC8AF40',
-        lightest: '#5BC8AF0D'
+        std: '#D9D375',
+        light: '#D9D37580',
+        lighter: '#D9D37540',
+        lightest: '#D9D3750D'
       },
       warning: {
-        std: '#FFBA49',
-        light: '#FFBA4980',
-        lighter: '#FFBA4940',
-        lightest: '#FFBA490D'
+        std: '#20A39E',
+        light: '#20A39E80',
+        lighter: '#20A39E40',
+        lightest: '#20A39E0D'
       },
 
       gray: {
@@ -252,10 +252,10 @@ module.exports = {
     },
     fontFamily: {
       sans: [
+        'Roboto',
         '-apple-system',
         'BlinkMacSystemFont',
         '"Segoe UI"',
-        'Roboto',
         '"Helvetica Neue"',
         'Arial',
         '"Noto Sans"',
