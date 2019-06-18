@@ -10,7 +10,7 @@ const deleteBtnHtml =
   "<div class='bg-white hidden absolute pin-t pin-l js-delete-btn px-4 py-2 shadow'><i class='far fa-trash-alt pointer-events-none'></i></div>";
 const stitchesCSSPath = "http://127.0.0.1:8088/output.css";
 const fontMuliPath =
-  "https://fonts.googleapis.com/css?family=Roboto:300,400,600,700,800,900";
+  "https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800,900";
 const fontAwesomePath =
   "https://use.fontawesome.com/releases/v5.6.3/css/all.css";
 const fontAwesomeIntegrity =
